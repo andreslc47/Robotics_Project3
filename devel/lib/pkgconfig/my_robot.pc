@@ -1,0 +1,8 @@
+prefix=/home/robond/Desktop/Robotics_Project3/devel
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Desktop/Robotics_Project3/devel/lib 
+Requires: 
