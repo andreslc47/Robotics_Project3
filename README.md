@@ -19,25 +19,25 @@ To execute the Project:
 
 5. Open 4 terminals.
 
-5.1. First Terminal: 
+    5.1. First Terminal: 
 
         cd ~/Robotics_Project3/
         source devel/setup.bash
         roslaunch my_robot world.launch
   
-5.2. Second Terminal:
+    5.2. Second Terminal:
 
         cd ~/Robotics_Project3/
         source devel/setup.bash
         roslaunch my_robot amcl.launch
 
-5.3. Third Terminal:
+    5.3. Third Terminal:
 
         cd ~/Robotics_Project3/
         source devel/setup.bash
         rviz
 
-5.4. Fourth Terminal:
+    5.4. Fourth Terminal:
 
         cd ~/Robotics_Project3/
         source devel/setup.bash
@@ -48,4 +48,4 @@ To execute the Project:
 7. To close Gazebo and RViz:
   
         cd ~/Robotics_Project3/
-         ./pkill_all
+        ./pkill_all
