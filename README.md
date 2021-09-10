@@ -5,6 +5,9 @@ To execute the Project:
 
 1. Clone the Repository Folder "Robotics_Project3" to your /home/<user> directory
 
+        cd ~
+        git clone https://github.com/andreslc47/Robotics_Project3.git
+
 2. Enter to the folder: 
 
         cd ~/Robotics_Project3/
